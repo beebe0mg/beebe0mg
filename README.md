@@ -1,6 +1,7 @@
 ### Hi my name is Sangmi 👋
 
 <img src = "http://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <!--
 **beebe0mg/beebe0mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
