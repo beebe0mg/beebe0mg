@@ -1,11 +1,29 @@
-<div align=center><h1> Hi my name is Sangmi 👋</h1></div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sangmi's+GitHub!👋)](https://git.io/typing-svg)
 <div align = center>
-[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=beebe0mg&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+## 💻 Sangmi's log 💻
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+  <a href="w2321@e-mirim.hs.kr">
+    <img src="https://img.shields.io/badge/
+    Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="http://www.instagram.com/ddangna">
+    <img src="https://img.shields.io/badge/
+    Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
+
+## 🔨 Once I've used 🔨
+<p><strong>Backend</strong></p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<p><strong>Frontend</strong></p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 <!--
 **beebe0mg/beebe0mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
