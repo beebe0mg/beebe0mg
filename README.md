@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi my name is Sangmi 👋
+
+<img src = "http://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
 
 <!--
 **beebe0mg/beebe0mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![header](https://capsule-render.vercel.app/api?type=Hello!)
-![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
