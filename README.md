@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
+## 🌱 Git stats 🌱
+![beebe0mg's github stats](https://github-readme-stats.vercel.app/api?username=beebe0mg&show_icons=true)
+
 <!--
 **beebe0mg/beebe0mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
