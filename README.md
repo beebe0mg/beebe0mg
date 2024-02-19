@@ -2,22 +2,11 @@
 <div align = center>
 
 ## 💻 Sangmi's log 💻
-<div style="display:flex; flex-direction:row;">
-  <a href="http://ddangna.tistory.com">
-    <img src="http://img.shields.io/badge/
-    Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
-  [![Tistory's Card](http://github-readme-tistory-card.vercel.app/api?name=beebe0mg&theme=default)](http://ddangna.tistory.com/)</div><br>
+<a href="http://ddangna.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ## 📞 Contact 📞
-  <a href="w2321@e-mirim.hs.kr">
-    <img src="https://img.shields.io/badge/
-    Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="http://www.instagram.com/ddangna">
-    <img src="https://img.shields.io/badge/
-    Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+<a href="w2321@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="http://www.instagram.com/ddangna" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## 🔨 Once I've used 🔨
 <p><strong>Backend</strong></p>
