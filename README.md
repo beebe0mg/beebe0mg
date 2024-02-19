@@ -1,5 +1,6 @@
 <div align=center><h1> Hi my name is Sangmi 👋</h1></div>
 <div align = center>
+[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=beebe0mg&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
