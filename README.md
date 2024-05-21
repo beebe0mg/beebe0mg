@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Github](https://www.codenary.co.kr/widget/github/api?username=정상미)](https://www.codenary.co.kr/user-profile/detail/정상미?github_ride=true&utm_source=github)
 
 <!--
 **beebe0mg/beebe0mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
