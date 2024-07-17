@@ -1,4 +1,4 @@
-<h2 align="center">항상 성장하고 노력하는 개발자, <h1>정상미</h1>입니다.</h2>
+<h2 align="center">항상 성장하고 노력하는 개발자, 정상미입니다.</h2>
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=정상미)](https://www.codenary.co.kr/user-profile/detail/정상미?github_ride=true&utm_source=github)
 
