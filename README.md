@@ -1,5 +1,3 @@
-<h4 align="center">포기하지 않는 개발자, 정상미입니다!</h4>
-
 [![Github](https://www.codenary.co.kr/widget/github/api?username=정상미)](https://www.codenary.co.kr/user-profile/detail/정상미?github_ride=true&utm_source=github)
 
 <h3 align="center">🔨 Used 🔨</h3>
