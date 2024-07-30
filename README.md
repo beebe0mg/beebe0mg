@@ -7,4 +7,3 @@
 <p align="center"><a href="mailto:w2321@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=w2321@e-mirim.hs.kr"/></a>
 <a href="http://www.instagram.com/xeonmoa" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="http://ddangna.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
-
