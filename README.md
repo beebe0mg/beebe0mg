@@ -3,9 +3,9 @@
 [![Github](https://www.codenary.co.kr/widget/github/api?username=정상미)](https://www.codenary.co.kr/user-profile/detail/정상미?github_ride=true&utm_source=github)
 
 <details>
-<summary>
+<summary><b>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
+</b></summary>
    <br>
   
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
