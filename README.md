@@ -3,4 +3,4 @@
 <h3 align="center">🔨 Used 🔨</h3>
 <p align="center"></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebe0mg)](https://github.com/anuraghazra/github-readme-stats)
