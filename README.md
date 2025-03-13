@@ -1,1 +1,2 @@
-[![Github](https://www.codenary.co.kr/widget/github/api?username=정상미)](https://www.codenary.co.kr/user-profile/detail/정상미?github_ride=true&utm_source=github)
+<h3>안녕하세요! 디자인을 코드로 풀어내는 개발자, 정상미입니다. 😙 </h3>
+<h3>낯선 화면 속, 새로운 가능성을 찾으며 끊임없이 성장하고 있습니다! 🔥 </h3>
